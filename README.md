@@ -9,6 +9,7 @@ Front End for AI powered unified platform for messages from meta, whatsapp, inst
 - **Tailwind CSS**: A utility-first CSS framework for building custom designs quickly.
 - [**Shadcn UI**](https://ui.shadcn.com/)
 - [**Mantine UI**](https://ui.mantine.dev/)
+- [**RxJS**] (https://rxjs.dev/guide/overview)
 
 ## Getting Started:
 
